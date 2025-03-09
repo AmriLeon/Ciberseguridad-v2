@@ -1,6 +1,7 @@
 import './bootstrap';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
+import Typed from 'typed.js';
 
 Aos.init({
     duration: 800,
@@ -8,21 +9,19 @@ Aos.init({
     once: true
 });
 
-import Typed from 'typed.js';
 document.addEventListener('DOMContentLoaded',()=>{
     const typedTitle = new Typed('#typed-title', {
-        strings: ['Bienvenidos ', 'Todavia no se que poner', 'Helado'],
-        // Manda a traer una cadena de caracteres 
+        strings: [
+            '<span class="text-blue-500">Congreso Nacional de Ciberseguridad 2025</span>',
+            '<span class="text-cyan-400">Desafíos y tendencias en ciberseguridad</span>',
+            '<span class="text-[#73E0B7]">Conocimiento, tecnología y prevención</span>'
+        ],
         typeSpeed: 100,
-        // Velocidad de escritura
-        backSpeed: 50, 
-        // Velocidad de borrado
+        backSpeed: 50,
         showCursor: true,
-        // Mostrar cursor
-        loop: true
-        // Repetir el efecto
+        loop: true,
+        cursorChar: '|',
+        fadeOut: true,
+        html: true
     });
-
-})
-
-
+});
