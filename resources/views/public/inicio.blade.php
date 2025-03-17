@@ -182,7 +182,7 @@
 <!-- Countdown Section -->
 <div class="py-8 sm:py-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="relative p-6 bg-gradient-to-br from-blue-800/40 to-cyan rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500 text-center">
+        <div class="relative p-6 bg-gradient-to-br from-cyan-800 to-white rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500 text-center">
             <h2 class="text-xl sm:text-2xl font-bold text-white mb-4 sm:mb-6">Tiempo restante para el evento</h2>
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-8 max-w-3xl mx-auto">
                 <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] p-3 sm:p-6 rounded-lg shadow-lg hover:shadow-blue-500/20 transition-all duration-300">
@@ -212,28 +212,28 @@
         <div class="grid grid-cols-2 gap-4 sm:grid-cols-2 lg:grid-cols-4 transition-all duration-500">
             <!-- Stat 1 -->
             <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
-                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
                     <span class="counter" data-target="50">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Ponentes Expertos</div>
             </div>
             <!-- Stat 2 -->
             <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
-                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
                     <span class="counter" data-target="1000">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Asistentes Esperados</div>
             </div>
             <!-- Stat 3 -->
             <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
-                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
                     <span class="counter" data-target="30">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Talleres Prácticos</div>
             </div>
             <!-- Stat 4 -->
             <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
-                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
                     <span class="counter" data-target="3">0</span>
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Días de Evento</div>
