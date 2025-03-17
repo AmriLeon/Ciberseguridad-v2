@@ -53,9 +53,9 @@
 </div>
 
 <!-- Features Section -->
-<div class="py-4 sm:py-6 bg-gradient-to-b to-blue-800/80">
+<div class="py-8 sm:py-12 bg-gradient-to-b to-blue-800/80">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-6 sm:mb-8">
+        <div class="text-center mb-8 sm:mb-12">
             <h2 class="text-sm sm:text-base text-blue-500 font-semibold tracking-wide uppercase">Tracks del Congreso</h2>
             <p class="mt-2 text-2xl sm:text-3xl leading-8 font-extrabold tracking-tight text-white md:text-4xl">Temas Principales</p>
         </div>
@@ -63,7 +63,7 @@
         <div class="mt-6 sm:mt-10">
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 md:gap-x-8 md:gap-y-10">
                 <!-- Track cards with responsive spacing -->
-                <div class="relative p-4 sm:p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-500">
+                <div class="relative p-4 sm:p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                     <div class="absolute flex items-center justify-center h-10 w-10 sm:h-12 sm:w-12 rounded-md bg-blue-500/80 text-white">
                         <svg class="h-5 w-5 sm:h-6 sm:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <!-- Track 2 -->
-                <div class="relative p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-500">
+                <div class="relative p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                     <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-blue-500/80 text-white">
                         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
@@ -88,7 +88,7 @@
                 </div>
 
                 <!-- Track 3 -->
-                <div class="relative p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-500">
+                <div class="relative p-6 bg-gradient-to-br from-gray-800/80 to-black rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                     <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-blue-500/80 text-white">
                         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -118,7 +118,7 @@
 
         <!-- Areas Temáticas Grid -->
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-400">
+            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                 <div class="text-blue-500 mb-4">
                     <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
@@ -127,7 +127,7 @@
                 <h3 class="text-lg font-medium text-white mb-2">Criptografía Avanzada</h3>
                 <p class="text-gray-300">Blockchain, cifrado cuántico y protocolos de seguridad de última generación.</p>
             </div>
-            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-400">
+            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                 <div class="text-blue-500 mb-4">
                     <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
@@ -136,7 +136,7 @@
                 <h3 class="text-lg font-medium text-white mb-2">Análisis Forense Digital</h3>
                 <p class="text-gray-300">Técnicas y herramientas para la investigación de incidentes de seguridad.</p>
             </div>
-            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-400">
+            <div class="relative p-4 sm:p-6 bg-gradient-to-br from-blue-900 to-cyan-800 rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500">
                 <div class="text-blue-500 mb-4">
                     <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -182,7 +182,7 @@
 <!-- Countdown Section -->
 <div class="py-8 sm:py-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="relative p-6 bg-gradient-to-br from-blue-300/40 to-cyan rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-blue-400 text-center">
+        <div class="relative p-6 bg-gradient-to-br from-blue-800/40 to-cyan rounded-lg transform hover:scale-105 transition-all duration-300 hover:border-2 hover:border-blue-500 text-center">
             <h2 class="text-xl sm:text-2xl font-bold text-white mb-4 sm:mb-6">Tiempo restante para el evento</h2>
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-8 max-w-3xl mx-auto">
                 <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] p-3 sm:p-6 rounded-lg shadow-lg hover:shadow-blue-500/20 transition-all duration-300">
@@ -211,30 +211,30 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-2 gap-4 sm:grid-cols-2 lg:grid-cols-4 transition-all duration-500">
             <!-- Stat 1 -->
-            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-cyan-500">
-                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
-                    <span class="counter" data-target="50">5</span>+
+            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
+                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                    <span class="counter" data-target="50">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Ponentes Expertos</div>
             </div>
             <!-- Stat 2 -->
-            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-cyan-500">
-                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
-                    <span class="counter" data-target="1000">500</span>+
+            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
+                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                    <span class="counter" data-target="1000">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Asistentes Esperados</div>
             </div>
             <!-- Stat 3 -->
-            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-cyan-500">
-                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
-                    <span class="counter" data-target="30">15</span>+
+            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
+                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                    <span class="counter" data-target="30">0</span>+
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Talleres Prácticos</div>
             </div>
             <!-- Stat 4 -->
-            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-cyan-500">
-                <div class="text-2xl sm:text-4xl font-bold text-white mb-2">
-                    <span class="counter" data-target="3">2</span>
+            <div class="bg-gradient-to-br from-gray-500/80 to-[#17A2B8] rounded-lg p-4 sm:p-6 transform hover:scale-105 transition-all duration-300">
+                <div class="text-2xl sm:text-4xl font-bold text-blue-500 mb-2">
+                    <span class="counter" data-target="3">0</span>
                 </div>
                 <div class="text-sm sm:text-base text-gray-300">Días de Evento</div>
             </div>
@@ -246,33 +246,33 @@
 <!-- Testimonials Section -->
 <div class="py-12 bg-gray-900/50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="bg-gradient-to-br from-gray-300/80 to-[#17A2B8] rounded-lg p-8 transform hover:scale-105 transition-all duration-300 hover:border-4 hover:border-cyan-300">
+        <div class="bg-gradient-to-br from-gray-300/80 to-[#17A2B8] rounded-lg p-8">
             <h3 class="text-2xl font-bold text-white mb-8 text-center">Testimonios de Ediciones Anteriores</h3>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div class="bg-gray-800 p-6 rounded-lg">
+                <div class="bg-gray-900 p-6 rounded-lg">
                     <p class="text-gray-300 mb-4">"Una experiencia única que me ayudó a definir mi carrera en ciberseguridad. Los talleres prácticos fueron invaluables."</p>
                     <div class="flex items-center">
                         <div class="ml-3">
                             <p class="text-sm font-medium text-white">María González</p>
-                            <p class="text-sm text-gray-400">Estudiante - Edición 2024</p>
+                            <p class="text-sm text-gray-400">Estudiante - Edición 2023</p>
                         </div>
                     </div>
                 </div>
-                <div class="bg-gray-800 p-6 rounded-lg">
+                <div class="bg-gray-900 p-6 rounded-lg">
                     <p class="text-gray-300 mb-4">"El nivel de los ponentes y el contenido técnico superó mis expectativas. Definitivamente volveré este año."</p>
                     <div class="flex items-center">
                         <div class="ml-3">
                             <p class="text-sm font-medium text-white">David Martínez</p>
-                            <p class="text-sm text-gray-400">Profesional IT - Edición 2024</p>
+                            <p class="text-sm text-gray-400">Profesional IT - Edición 2023</p>
                         </div>
                     </div>
                 </div>
-                <div class="bg-gray-800 p-6 rounded-lg">
+                <div class="bg-gray-900 p-6 rounded-lg">
                     <p class="text-gray-300 mb-4">"Las sesiones de networking fueron excelentes. Conseguí mi primer trabajo en ciberseguridad gracias a los contactos que hice."</p>
                     <div class="flex items-center">
                         <div class="ml-3">
                             <p class="text-sm font-medium text-white">Ana Pérez</p>
-                            <p class="text-sm text-gray-400">Security Analyst - Edición 2024</p>
+                            <p class="text-sm text-gray-400">Security Analyst - Edición 2022</p>
                         </div>
                     </div>
                 </div>
@@ -289,7 +289,7 @@
         </h2>
         <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
             <div class="inline-flex rounded-md shadow">
-                <a href="#registro" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-500/80 hover:bg-blue-50">
+                <a href="#registro" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-900/80 hover:bg-blue-50">
                     Registrarse
                 </a>
             </div>
