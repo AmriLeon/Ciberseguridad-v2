@@ -68,7 +68,7 @@
             animation: gradientBG 15s ease infinite;
         }
         .route-faq .dynamic-bg { 
-            background: linear-gradient(45deg, #0f2027, #203a43);
+            background: linear-gradient(45deg, #0f2027, #172a45);
             animation: gradientBG 15s ease infinite;
         }
     </style>
