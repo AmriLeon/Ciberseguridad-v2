@@ -1,6 +1,6 @@
 @extends ('layouts.public')
 
-@section('titulo','faq')
+@section('titulo','FAQ')
 
 @section('content')
 
