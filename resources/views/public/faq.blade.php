@@ -3,7 +3,6 @@
 @section('titulo','faq')
 
 @section('content')
-
 <div class="bg-gray-800/80 bg-opacity-50 relative z-10 py-16">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 class="text-5xl font-extrabold text-white text-center mb-16 animate-fade-in-up">Preguntas Frecuentes</h1>
@@ -125,10 +124,9 @@
             </div>
         </div>
     </div>
-</div>
 
- <!-- Nuestros Servicios -->
- <div class="mb-8">
+    <!-- Nuestros Servicios -->
+    <div class="mb-8">
         <h2 class="text-2xl font-semibold text-blue-500 mb-4"><i class="fas fa-cogs mr-3"></i>Nuestros Servicios</h2>
         <div class="space-y-4">
             <div class="border border-gray-700 rounded-lg hover:border-blue-500 transition-colors duration-300 shadow-lg hover:shadow-blue-500/20 bg-gray-800 bg-opacity-60 backdrop-blur-sm hover:bg-opacity-70">
@@ -230,7 +228,7 @@
             </div>
         </div>
     </div>
-
+</div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

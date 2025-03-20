@@ -73,6 +73,104 @@
     </div>
 </div>
 
+ <!-- Schedule Section -->
+ <div class="py-12 bg-gray-800/80 bg-opacity-50 relative z-10">
+ <div id="agenda" class="py-16 bg-gray-800/30">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-12">
+                    <h2 class="text-base text-blue-400 font-semibold tracking-wide uppercase neon-title-blue">Agenda del Congreso</h2>
+                    <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">Programa de Actividades</p>
+                </div>
+
+                <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+                    <!-- Day 1 -->
+                    <div class="p-6 rounded-lg bg-black border-2 border-blue-500 transition-all duration-300 hover:shadow-[0_0_15px_#346ca4,0_0_30px_rgba(52,108,164,0.3),0_0_45px_rgba(52,108,164,0.1)] hover:border-blue-500 hover:border hover:bg-gray-800/90 hover:transform hover:-translate-y-1">
+                        <h3 class="text-xl font-bold text-blue-400 mb-4">Día 1 - Fundamentos</h3>
+                        <ul class="space-y-4">
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">09:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Ceremonia de Apertura</p>
+                                    <p class="text-gray-400 text-sm">Bienvenida e introducción al congreso</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">10:30</span>
+                                <div>
+                                    <p class="text-white font-medium">Ciberseguridad 101</p>
+                                    <p class="text-gray-400 text-sm">Conceptos básicos y panorama actual</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">14:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Taller Práctico</p>
+                                    <p class="text-gray-400 text-sm">Herramientas básicas de seguridad</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Day 2 -->
+                    <div class="p-6 rounded-lg bg-black border-2 border-blue-500 transition-all duration-300 hover:shadow-[0_0_15px_#346ca4,0_0_30px_rgba(52,108,164,0.3),0_0_45px_rgba(52,108,164,0.1)] hover:border-blue-500 hover:border hover:bg-gray-800/90 hover:transform hover:-translate-y-1">
+                        <h3 class="text-xl font-bold text-blue-400 mb-4">Día 2 - Técnicas Avanzadas</h3>
+                        <ul class="space-y-4">
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">09:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Ethical Hacking</p>
+                                    <p class="text-gray-400 text-sm">Metodologías y mejores prácticas</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">11:30</span>
+                                <div>
+                                    <p class="text-white font-medium">Forense Digital</p>
+                                    <p class="text-gray-400 text-sm">Análisis y recuperación de evidencias</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">15:00</span>
+                                <div>
+                                    <p class="text-white font-medium">CTF Challenge</p>
+                                    <p class="text-gray-400 text-sm">Competencia práctica de habilidades</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Day 3 -->
+                    <div class="p-6 rounded-lg bg-black border-2 border-blue-500 transition-all duration-300 hover:shadow-[0_0_15px_#346ca4,0_0_30px_rgba(52,108,164,0.3),0_0_45px_rgba(52,108,164,0.1)] hover:border-blue-500 hover:border hover:bg-gray-800/90 hover:transform hover:-translate-y-1">
+                        <h3 class="text-xl font-bold text-blue-400 mb-4">Día 3 - Futuro Profesional</h3>
+                        <ul class="space-y-4">
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">09:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Tendencias Emergentes</p>
+                                    <p class="text-gray-400 text-sm">IA y Ciberseguridad</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">11:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Panel de Expertos</p>
+                                    <p class="text-gray-400 text-sm">Oportunidades laborales en ciberseguridad</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-400 mr-2">16:00</span>
+                                <div>
+                                    <p class="text-white font-medium">Ceremonia de Clausura</p>
+                                    <p class="text-gray-400 text-sm">Entrega de certificados</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 <!-- Organizing Committee Section -->
 
 <div class="py-12 bg-gray-800/80 bg-opacity-50 relative z-10">

@@ -204,7 +204,7 @@
         <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
             <div class="flex lg:flex-1">
                 <a href="{{ route('inicio') }}" class="-m-1.5 p-1.5 flex items-center space-x-2">
-                    <i class="fas fa-shield-alt text-2xl text-blue-500"></i>
+                    <img src="{{ asset('images/logo.jpg') }}" alt="Logo" class="w-8 h-8">
                     <span class="text-lg font-bold text-white">CiberSeguridad</span>
                 </a>
             </div>
